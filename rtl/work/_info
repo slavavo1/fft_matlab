@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/hdl_coder/hdlsrc/fft_new
+vfft_sub1
+Z0 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1748939820
+!i10b 1
+!s100 FS`HVDeH_i]Hn8h@S^mWk3
+I[>?:clNV^0[=Toa9h:=Cb1
+S1
+Z1 dD:/FPGA/hdl_coder/fft_1024/rtl
+w1748939820
+8C:\Users\slava\AppData\Local\Temp\tmpf_u4vrv7.v
+FC:\Users\slava\AppData\Local\Temp\tmpf_u4vrv7.v
+!i122 1
+L0 21 4143
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1748939820.000000
+!s107 C:\Users\slava\AppData\Local\Temp\tmpf_u4vrv7.v|
+!s90 -sv|-lint|C:\Users\slava\AppData\Local\Temp\tmpf_u4vrv7.v|
+!i113 0
+Z4 o-sv -lint -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vfft_top
+R0
+!s110 1748941171
+!i10b 1
+!s100 GP>njP8[9=SDn29Ll5F`D3
+IK`4@>8N9;4HfB4iW=MHG00
+S1
+R1
+w1748941171
+8C:\Users\slava\AppData\Local\Temp\tmpbvvweaeh.sv
+FC:\Users\slava\AppData\Local\Temp\tmpbvvweaeh.sv
+!i122 2
+L0 23 59
+R2
+R3
+r1
+!s85 0
+31
+!s108 1748941171.000000
+!s107 C:\Users\slava\AppData\Local\Temp\tmpbvvweaeh.sv|
+!s90 -sv|-lint|C:\Users\slava\AppData\Local\Temp\tmpbvvweaeh.sv|
+!i113 0
+R4
+R5
